@@ -74,5 +74,5 @@ public class Main{
 
 // Evaluate
 
-// Time complexity: iterating through original array is worst case O(n). HashMap worse case is O(n) so worst case is O(n squared)
+// Time complexity: iterating through original array is worst case O(n). HashMap is O(1) so overall it is O(n)
 // Space complexity: Creating extra HashMap for each index would be O(n) or O(x) for all unique values
